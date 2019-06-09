@@ -1,2 +1,4 @@
-# fcc-testing-challenges
-FreeCodeCamp - Testing Challenges
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
